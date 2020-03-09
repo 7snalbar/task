@@ -1,0 +1,26 @@
+PODS:
+  - BaseAPI (0.1.7)
+  - GithubAPI (0.0.6):
+    - BaseAPI
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+
+DEPENDENCIES:
+  - GithubAPI
+  - Kingfisher (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - BaseAPI
+    - GithubAPI
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  BaseAPI: 78f88151221ac5d2dcc2dda69cf3aab6773fd8eb
+  GithubAPI: bc5bfd90489f5138a8d1e00003b18abe31579eb0
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+
+PODFILE CHECKSUM: a5660ddff00b1f4832637db77a8a721028af87da
+
+COCOAPODS: 1.9.0

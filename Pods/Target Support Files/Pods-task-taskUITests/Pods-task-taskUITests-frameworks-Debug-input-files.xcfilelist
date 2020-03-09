@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-task-taskUITests/Pods-task-taskUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BaseAPI/BaseAPI.framework
+${BUILT_PRODUCTS_DIR}/GithubAPI/GithubAPI.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
